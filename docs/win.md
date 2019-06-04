@@ -2,7 +2,7 @@
 - - -
 ### ** Windows平台使用方法一(推荐)**
 
-**下载客户端：[点击下载](https://cdn-for-boomcloud.b0.upaiyun.com/download/ShadowsocksR.7z)**
+**下载客户端：[点击下载](https://cdn.t9c.co/download/ShadowsocksR.7z)**
 **1. 使用桌面浏览器登录到 Boom Cloud 管理门户**
 
 建议使用Chrome浏览器，访问 Boom Cloud 管理门户,点击您的订阅进入订阅详情页面
@@ -57,9 +57,7 @@
 
 **1.下载BoomCloud for Windows客户端**
 
-下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://boomcloud.wiki/xia-zai-di-zhi.html)  
-
-下载地址2:[BoomCloud 用户中心   客户端下载菜单下](https://www.boompp.com/downloads.php)
+下载地址:[BoomCloud Wiki Center 全平台客户端下载地址](https://boomcloud-hk.github.io/wiki/#/resource/download)  
 
 **2.安装客户端并登陆**
 

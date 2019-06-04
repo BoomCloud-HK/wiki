@@ -43,9 +43,7 @@ PAC 模式：自动代理模式，仅需要代理的流量通过服务器。
 ### **macOS平台使用方法二**
 **1.下载BoomCloud for Mac客户端**
 
-下载地址1:[BoomCloud Wiki Center 全平台客户端下载地址](https://boomcloud.wiki/resource/download)  
-
-下载地址2:[BoomCloud 用户中心   客户端下载菜单下](https://www.boompp.com/downloads.php)
+下载地址:[BoomCloud Wiki Center 全平台客户端下载地址](https://boomcloud-hk.github.io/wiki/#/resource/download)  
 
 **2.安装客户端并登陆**
 

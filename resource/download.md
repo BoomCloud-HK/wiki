@@ -6,9 +6,9 @@
 
 | 客户端名称 | 下载地址 | 是否支持一键配置 | 价格 |
 | :---: | :---: | :---: | :---: |
-| SSR for Windows | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/ShadowsocksR.7z) | 是 | 免费 |
-| SSR for macOS | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/ssr-mac.dmg) | 是 | 免费 |
-| SSR for Android | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/ssr-android.apk) | 是 | 免费 |
+| SSR for Windows | [下载地址](https://cdn.t9c.co/download/ShadowsocksR.7z) | 是 | 免费 |
+| SSR for macOS | [下载地址](https://cdn.t9c.co/download/ssr-mac.dmg) | 是 | 免费 |
+| SSR for Android | [下载地址](https://cdn.t9c.co/download/ssr-android.apk) | 是 | 免费 |
 | Shadowrocket | [下载地址](https://itunes.apple.com/cn/app/shadowrocket/id932747118?mt=8) | 是 | 18 RMB |
 | Surge | [下载地址](https://itunes.apple.com/cn/app/surge-web-developer-tool-and-proxy-utility/id1040100637?mt=8) | 是 | 328 RMB |
 
@@ -18,9 +18,9 @@
 
 | 客户端名称 | 下载链接 |
 | :---: | :---: |
-| Boomcloud Client for Windows(推荐) | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud-win.1.9.7z) |
-| Boomcloud Client for Mac (推荐)| [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/BoomCloud_v2.4.dmg) |
-| Boomcloud Client for Game(打游戏推荐) | [下载地址](https://cdn-for-boomcloud.b0.upaiyun.com/download/Boomcloud加速器2.1.7z) |
+| Boomcloud Client for Windows(推荐) | [下载地址](https://cdn.t9c.co/download/BoomCloud-win.1.9.7z) |
+| Boomcloud Client for Mac (推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_v2.4.dmg) |
+| Boomcloud Client for Game(打游戏推荐) | [下载地址](https://cdn.t9c.co/download/Boomcloud加速器2.1.7z) |
 | Boomcloud Client for Android | 努力开发中 |
 | Boomcloud Client for iOS | 努力开发中 |
 
