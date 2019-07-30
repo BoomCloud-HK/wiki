@@ -57,13 +57,19 @@
 
 **1.下载BoomCloud for Windows客户端**
 
-下载地址:[BoomCloud Wiki Center 全平台客户端下载地址](https://boomcloud-hk.github.io/wiki/#/resource/download)  
-
+下载地址:[BoomCloud Win](https://cdn.t9c.co/download/BoomCloud.zip)  
+Windows环境库:[tools](https://cdn.t9c.co/download/wintools.zip)  
 **2.安装客户端并登陆**
 
-将下载好的客户端压缩包解压，然后安装，安装成功后双击加速器图标启动程序并登录BoomCloud门户账号，即您的邮箱及密码。
+将下载好的客户端压缩包解压，开启 Launcher.exe，点击左上角“账户菜单”→“登录” BoomCloud门户账号，，如可以正常运行则直接跳过以下步骤点击启动开始科学上网。
 
-![](/img/win/client-01.png)
+![](/img/win/client-new.png)
+
+如无法正常运行客户端，请下载Windows环境库，解压后打开 “必要运行库环境” 文件夹，安装软件运行依赖文件，文件夹内有三个文件，用户需要安装其中两个，根据下面提示安装
+
+*   ndp48-x86-x64-allos-enu.exe **必须安装**
+*   vc_redist.x64.exe **64 位系统请安装这个**
+*   vc_redist.x86.exe **32 位系统请安装这个**
 
 · 登录 Boomcloud 账户自动获取接入点信息  
 · 自动获取套餐到期时间以及流量使用剩余信息  
@@ -73,6 +79,7 @@
 **3.开始科学上网**
 
 登录之后软件会自动选择默认线路，如无法正常上网，您可以尝试切换线路
+
 - - -
 注意事项：  
 1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。  
