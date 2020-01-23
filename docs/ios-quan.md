@@ -68,7 +68,7 @@ Quantumult 是新生代的 iOS 代理软件，在完整兼容 SSR 新协议的�
 
 在新的页面中，点击 「Name」，输入 `conf` 并保存，然后点击 「URL」，添加：  
 
-`https://cdn-for-boomcloud.b0.upaiyun.com/quantumult/Default.conf`
+`https://cdn.t9c.co/quantumult/Default.conf`
 
 同样，在 TCP Filgter 分类下名称为 `conf`的选项上向左轻扫，点击「Replace」。Quantumult 会从静态资源服务器上下载 TCP 规则，并在完成后弹出新页面：
 
