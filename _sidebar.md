@@ -2,7 +2,7 @@
   - [下载地址](/resource/download)
 
 - 开始使用
-  - [全平台V2导入](/docs/v2rayadd)
+  - [全平台V2订阅](/docs/v2rayadd)
   - [Windows-SSR/SS](/docs/win)
   - [Windows-Clash](/docs/clashwin)
   - [macOS-SSR/SS](/docs/mac)
