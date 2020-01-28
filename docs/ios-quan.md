@@ -19,19 +19,19 @@ Quantumult 是新生代的 iOS 代理软件，在完整兼容 SSR 新协议的�
 
 登录用户中心，在"您订购的产品" 区域，找到已激活的产品服务。
 
-![](/img/ios/ios-01.png)
+![](../img/ios/ios-01.png)
 
 点击进入产品详情页面。建议使用 Safari 管理门户，然后点击您的订阅进入订阅详情页面，在「自动配置」功能区点击「节点订阅」，然后在弹出的窗口中选择「普通模式」。点击后，即已经把订阅地址「复制到剪贴板」。
 
-![](/img/ios/ios-02.png)
+![](../img/ios/ios-02.png)
 
 ** 2. 打开 Quantumult 软件，点击「Settings」选项卡，然后点击「Favorites」标签。**
 
-![](/img/ios/quantumult-4.png)
+![](../img/ios/quantumult-4.png)
 
 点击右上角的「+」号，并在底部弹出的菜单中选择「Server」
 
-![](/img/ios/quantumult-5.png)
+![](../img/ios/quantumult-5.png)
 
 在「Name」中输入「BoomCloud」，然后在「URL」中粘贴刚才复制的节点信息订阅地址。
 
@@ -50,21 +50,21 @@ Quantumult 是新生代的 iOS 代理软件，在完整兼容 SSR 新协议的�
 
 点击「Save」，Quantumult 就会返回之前的界面，这时，在刚刚添加的「BoomCloud 」服务器订阅上向左滑动，点击黑色的「Update」按钮，Quantumult 就会请求 BoomCloud API 并获取最新的接入点信息。
 
-![](/img/ios/quantumult-7.png)
+![](../img/ios/quantumult-7.png)
 
 成功会弹出提示框显示「Successfully updated」，如果弹出其他提示信息，请联系 BoomCloud 技术支持服务部门。
 
-![](/img/ios/quantumult-8.png)
+![](../img/ios/quantumult-8.png)
 
 **添加 TCP Filter** 
 
 点击「Favorites」 进入订阅管理页面，然后点击右上角的 `+`
 
-![](/img/ios/quantumult-10.png)
+![](../img/ios/quantumult-10.png)
 
 在弹出的菜单中选择「TCP Filter」
 
-![](/img/ios/quantumult-11.png)
+![](../img/ios/quantumult-11.png)
 
 在新的页面中，点击 「Name」，输入 `conf` 并保存，然后点击 「URL」，添加：  
 
@@ -72,16 +72,16 @@ Quantumult 是新生代的 iOS 代理软件，在完整兼容 SSR 新协议的�
 
 同样，在 TCP Filgter 分类下名称为 `conf`的选项上向左轻扫，点击「Replace」。Quantumult 会从静态资源服务器上下载 TCP 规则，并在完成后弹出新页面：
 
-![](/img/ios/quantumult-13.png)
+![](../img/ios/quantumult-13.png)
 
 点击 OK 即可。
 
-![](/img/ios/quantumult-4.png)
+![](../img/ios/quantumult-4.png)
 
 在「 Server 」选项中选择订阅内线路，在节点列表中可以自由点击切换线路，寻找最适合您的高速线路。
 
 最后切换到「 Home 」,点击 「 Connect」按钮，成功开启BoomCloud加速服务。
 
-![](/img/ios/quantumult-9.png)
+![](../img/ios/quantumult-9.png)
 
 

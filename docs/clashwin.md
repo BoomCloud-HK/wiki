@@ -24,7 +24,7 @@
 
 点击之后会自动复制成功，部分浏览器会弹出提示
 
-![](/img/clashwin/00.png)
+![](../img/clashwin/00.png)
 
 
 
@@ -32,25 +32,25 @@
 
 !>此处请确认阁下的配置必须是兼容原版配置才可以正常使用 
 
-![](/img/clashwin/01.png)  
+![](../img/clashwin/01.png)  
 
 然后点击`Update`按钮或者 `Direct mode` 按钮，一般建议使用  `Direct mode` 模式，当设置成功后如下图会显示`All set` 。	
 
-![](/img/clashwin/02.png)
+![](../img/clashwin/02.png)
 
 点击`Proxies`选项，选择 `Rule` 选项，在下列节点中选择要使用的节点，另外 此处 Global 即全局模式，Rule即规则模式，Direct即不走代理模式。
 
 !>建议阁下默认使用`Rule`模式 
 
-![](/img/clashwin/03.png)
+![](../img/clashwin/03.png)
 
 点击 General 选项，勾选 System Proxy 。
 
-![](/img/clashwin/04.png)
+![](../img/clashwin/04.png)
 
 一小段时间后（具体时间取决于您的网络情况），您将会看到连接状态为已经连接，即可开启膜法网上之旅。
 
-![](/img/clashwin/05.png)
+![](../img/clashwin/05.png)
 
 
 - - -

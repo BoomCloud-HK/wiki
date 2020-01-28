@@ -1,16 +1,12 @@
-# 使用教程 —— MacOS Clash
+# 使用教程 —— Clash for Android
 
 - - -
 
-!>系统环境： macOS 10.14.1    ClashX 1.8.1
+!>系统环境： Android 10   Clash for Android 1.0.32
 
-**下载和安装 ClashX**
+**下载和安装 Clash for Android**
 
-点击[这里](https://github.com/yichengchen/clashX/releases)来下载 ClashX
-
-首次使用 ClashX macOS 会一如既往地提醒你此应用来自未知开发者，请允许打开此应用。
-
-ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程序用于设置系统代理，否则每次你通过 ClashX 变更系统系统状态（打开或关闭）时都需要输入密码，请点击「Install」，之后 macOS 会提示输入用户密码。
+点击[这里](https://github.com/yichengchen/clashX/releases)来下载 Clash for Android
 
 ---
 
@@ -26,9 +22,7 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 
 ![](../img/clashx/01.png)
 
-运行 ClashX 后，点击菜单栏上的 Clash 图标（一只小猫咪），在菜单中依次找到「配置 – 托管配置 – 设置地址」并点击。
-
-!>此处请确认阁下的配置必须是兼容原版配置才可以正常使用 
+运行 Clash for Android 后，点击菜单栏上的 Clash 图标（一只小猫咪），在菜单中依次找到「配置 – 托管配置 – 设置地址」并点击。
 
 ![](../img/clashx/02.png)  
 
@@ -50,5 +44,5 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 注意事项：  
 1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。  
 2. 如果节点有更新，则需要再次导入配置文件进行更新。  
-3. ClashX如果出现BUG请联系软件作者，BoomCloud无法解决客户端层面问题。
+3. Clash for Android如果出现BUG请联系软件作者，BoomCloud无法解决客户端层面问题。
 
