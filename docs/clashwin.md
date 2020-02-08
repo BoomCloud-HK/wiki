@@ -53,7 +53,11 @@
 
 ![](../img/clashwin/07.png)
 
-更多软件相关信息请查阅 [Clash for Windows 官方文档](https://docs.cfw.lbyczf.com/)
+3. Clash 支持灵活的策略组配置，可以满足多种分流需求，如下图示例所示，实现不同服务使用特定节点而不需要频繁手动切换
+
+![](../img/clashwin/08.png)
+
+更多软件相关信息请查阅 [Clash for Windows 官方文档](https://docs.cfw.lbyczf.com/) 或自行 Google
 - - -
 注意事项：  
 1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。  
