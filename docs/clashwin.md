@@ -1,60 +1,61 @@
-# 使用教程 —— Windows Clash
+# 使用教程 —— Clash for Windows
 - - -
 
-!>系统环境： Windows 10 LTSC 2019  Clash for Windows 0.5.15
+!>系统环境： Windows 10 LTSC 2019  Clash for Windows 0.8.9
 
 **下载和安装 Clash for Windows**
 
-新版本的 Clash for Windows 已经内置了 Clash 核心程序，因此无需手动下载 Clash 核心。
+点击[这里](https://github.com/Fndroid/clash_for_windows_pkg/releases)下载 Clash for  Windows
 
-点击[这里](https://github.com/Fndroid/clash_for_windows_pkg/releases/)来下载 Clash for  Windows
-
-执行 Clash for Windows 需要管理员权限，请确保在 UAC 授权中允许这么做。
+运行 Clash for Windows 需要管理员权限，请确保在 UAC 授权中允许这么做
 
 **1. 使用桌面浏览器登录到 Boom Cloud 管理门户**
 
-建议使用Chrome浏览器，访问 Boom Cloud 管理门户,点击您的订阅进入订阅详情页面
-
-
+建议使用 Chrome 浏览器，访问 Boom Cloud 管理门户，点击您的订阅进入订阅详情页面
 
 **2. 导入 Boom Cloud 接入点信息**
 
-点击订阅打开订阅详情页面，然后找到「自动配置」功能区。然后点击「托管配置」按钮，
-
-
-点击之后会自动复制成功，部分浏览器会弹出提示
+点击订阅打开订阅详情页面，找到「产品操作」功能区，然后点击「Clash」按钮，点击之后会自动复制托管链接至剪贴板，部分浏览器会弹出复制成功提示
 
 ![](../img/clashwin/00.png)
 
-
-
-打开 Clash 客户端，选择 Profiles 选项，在空白处填入复制成功的地址 ，注意检查地址以`https://api.boomss.host/XXXXX`开头
-
-!>此处请确认阁下的配置必须是兼容原版配置才可以正常使用 
+打开 Clash 客户端，选择 Profiles 选项，在空白处填入复制成功的地址 ，注意检查地址以`https://subscribe.boomss.host/XXXXX`开头，点击「Download」按钮下载配置文件
 
 ![](../img/clashwin/01.png)  
 
-然后点击`Update`按钮或者 `Direct mode` 按钮，一般建议使用  `Direct mode` 模式，当设置成功后如下图会显示`All set` 。	
+配置下载成功后会如下图显示「Success!」	，并在下方显示新增的配置文件，选中配置文件
 
 ![](../img/clashwin/02.png)
 
-点击`Proxies`选项，选择 `Rule` 选项，在下列节点中选择要使用的节点，另外 此处 Global 即全局模式，Rule即规则模式，Direct即不走代理模式。
+点击「Proxies」选项，选择「Rule」模式，在 select 策略组中选择要使用的节点或策略，auto 策略组可以自动选择与指定 URL 测速后延迟最短的服务器。另外此处「Global」即全局模式，「Rule」即规则模式，「Direct」即不走代理直连模式。
 
-!>建议阁下默认使用`Rule`模式 
+!>建议阁下默认使用「Rule」模式
 
 ![](../img/clashwin/03.png)
 
-点击 General 选项，勾选 System Proxy 。
+点击「General」选项，打开「System Proxy」开关启用系统代理，建议同时打开「Start with Windows」开关实现应用自启动
 
 ![](../img/clashwin/04.png)
 
-一小段时间后（具体时间取决于您的网络情况），您将会看到连接状态为已经连接，即可开启膜法网上之旅。
+至此，您即可开启膜法网上之旅。
+
+**Tips**
+
+1. 点击策略组右侧的⚡图标可对该策略组内所有节点进行延迟测试，点击单个节点名称右侧的「Check」按钮可对该节点单独测试延迟，延迟测试结果显示在节点名称右侧
 
 ![](../img/clashwin/05.png)
 
+2. 在 Windows 10 中，微软限制 UWP 应用访问本地回环地址，这导致 UWP 应用无法直接使用代理。Clash for Windows 集成了 EnableLoopback 程序，在 「General」页面点击「Launch Helper」启动 EnableLoopback 程序
 
+![](../img/clashwin/06.png)
+
+点击「Exempt All」勾选所有 UWP 应用，然后点击 Save Changes 即可。请注意安装新的 UWP 应用后需要再次手动勾选新添加的应用。
+
+![](../img/clashwin/07.png)
+
+更多软件相关信息请查阅 [Clash for Windows 官方文档](https://docs.cfw.lbyczf.com/)
 - - -
 注意事项：  
 1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。  
 2. 如果节点有更新，则需要再次导入配置文件进行更新。  
-3. Clash for windows如果出现BUG请联系软件作者，BoomCloud无法解决客户端层面问题。
+3. Clash for Windows 如果出现 BUG 请联系软件作者，BoomCloud 无法也没有义务解决客户端层面问题。
