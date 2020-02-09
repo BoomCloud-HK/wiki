@@ -15,11 +15,11 @@
 **3.软件内设置**
 下滑到「功能设置」功能区，打开「UDP 转发」并设置「路由」为「绕过局域网和中国大陆地址」。
 
-![](/img/howtouse/android07.png)
+![](../img/howtouse/android07.png)
 
 滑动页面到顶部，点击纸飞机图标连接，如果是首次连接，则系统会弹出如下的提示框，请点击「是」。
 
-![](/img/howtouse/android08.png)
+![](../img/howtouse/android08.png)
 
 ---
 
