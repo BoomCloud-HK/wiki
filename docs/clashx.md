@@ -1,4 +1,4 @@
-# 使用教程 —— MacOS Clash
+# 使用教程 —— ClashX for macOS 
 
 - - -
 
@@ -24,7 +24,7 @@ ClashX 首次运行会提示是否安装帮助程序（Helper）。此帮助程�
 
 点击之后会自动复制成功，部分浏览器会弹出提示
 
-![](../img/clashx/01.png)
+![](../img/clashwin/00.png)
 
 运行 ClashX 后，点击菜单栏上的 Clash 图标（一只小猫咪），在菜单中依次找到「配置 – 托管配置 – 设置地址」并点击。
 

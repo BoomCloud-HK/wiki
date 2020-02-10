@@ -10,12 +10,11 @@
   - [macOS-SSR/SS](/docs/mac)
   - [macOS-Clash](/docs/clashx)
   - [Android-SSR/SS](/docs/android)
-  - [Android-Clash](/docs/clasha)
+  - [Android-Clash](/docs/Clash-for-Android)
   - [iOS-Quantumult](/docs/ios-quan)
-  - [iOS-Surge2](/docs/ios-surge2)
   - [iOS-Surge3](/docs/ios-surge3)
+  - [iOS-Surge4](/docs/ios-surge4)
   - [iOS-Shadowrocket](/docs/ios-shadowrocket)
-  - [Router](/docs/router)
 
 - 进阶教程
 

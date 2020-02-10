@@ -5,7 +5,7 @@
 
 **下载和安装 Clash for Windows**
 
-点击[这里](https://github.com/Fndroid/clash_for_windows_pkg/releases)下载 Clash for  Windows
+- 下载地址：[下载1](https://cdn.t9c.co/download/Clash.for.Windows-0.8.8-win.7z)，[下载2](https://github.com/clash-windows/clash_for_windows_pkg/releases/download/0.8.8/Clash.for.Windows-0.8.8-win.7z)
 
 运行 Clash for Windows 需要管理员权限，请确保在 UAC 授权中允许这么做
 

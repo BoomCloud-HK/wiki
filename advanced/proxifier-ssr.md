@@ -20,27 +20,27 @@ P427L-9Y552-5433E-8DSR3-58Z68（MAC）
 
 * 打开软件，首先配置代理服务器。
 
-![](/img/game/proxifier1.png)
+![](../img/game/proxifier1.png)
 
 * 如下图，添加地址127.0.0.1，以及shadowsocks里配置的本地端口，默认为1080，选择socks version 5
 
-![](/img/game/proxifier2.png)
+![](../img/game/proxifier2.png)
 
 * 配置好后，点击测试，如果显示下图的绿色文字，则表示配置正确。
 
-![](/img/game/proxifier3.png)
+![](../img/game/proxifier3.png)
 
 * 接下来就要添加规则，来确定哪些软件是走代理的，哪些不用
 
-![](/img/game/proxifier4.png)
+![](../img/game/proxifier4.png)
 
 * 按如图所示的添加，这里有个default规则，如果default旁边的action里边选择的时proxy socks5…则本机所有软件都会走代理。一般default会选direct，然后把你需要走代理的软件选成proxy socks5
 
-![](/img/game/proxifier8.png)
+![](../img/game/proxifier8.png)
 
 * 最后在首页就能看到你各个软件的情况。玩儿游戏的同理规则里添加你的游戏，希望你能玩儿的开心快乐
 
-![](/img/game/proxifier6.png)
+![](../img/game/proxifier6.png)
 
 ---
 <center>特别提示：本教程转载自互联网，如无法成功或无效，请自寻谷歌。</center>

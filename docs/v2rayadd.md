@@ -38,5 +38,5 @@
 复制订阅连接见图
 ![](../img/v2add/clash.png)
 
-- 导入步骤见[Android - ClashFA](/docs/clashfa)
+- 导入步骤见[Android - ClashFA](/docs/Clash-for-Android)
 

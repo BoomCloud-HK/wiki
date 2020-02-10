@@ -15,17 +15,15 @@ Quantumult 是新生代的 iOS 代理软件，在完整兼容 SSR 新协议的�
 
 ---
 
-** 1. 使用浏览器登录到 BoomCloud 管理门户**
+**1. 使用浏览器登录到 BoomCloud 管理门户**
 
 登录用户中心，在"您订购的产品" 区域，找到已激活的产品服务。
 
-![](../img/ios/ios-01.png)
-
 点击进入产品详情页面。建议使用 Safari 管理门户，然后点击您的订阅进入订阅详情页面，在「自动配置」功能区点击「节点订阅」，然后在弹出的窗口中选择「普通模式」。点击后，即已经把订阅地址「复制到剪贴板」。
 
-![](../img/ios/ios-02.png)
+![](../img/win/01.png)
 
-** 2. 打开 Quantumult 软件，点击「Settings」选项卡，然后点击「Favorites」标签。**
+**2. 打开 Quantumult 软件，点击「Settings」选项卡，然后点击「Favorites」标签。**
 
 ![](../img/ios/quantumult-4.png)
 
