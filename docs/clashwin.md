@@ -1,7 +1,7 @@
 # 使用教程 —— Clash for Windows
 - - -
 
-!>系统环境： Windows 10 LTSC 2019  Clash for Windows 0.8.9
+!>系统环境： Windows 10 LTSC 2019  Clash for Windows 0.8.8
 
 **下载和安装 Clash for Windows**
 
@@ -9,11 +9,11 @@
 
 运行 Clash for Windows 需要管理员权限，请确保在 UAC 授权中允许这么做
 
-**1. 使用桌面浏览器登录到 Boom Cloud 管理门户**
+**1. 使用桌面浏览器登录到 BoomCloud 管理门户**
 
-建议使用 Chrome 浏览器，访问 Boom Cloud 管理门户，点击您的订阅进入订阅详情页面
+建议使用 Chrome 浏览器，访问 BoomCloud 管理门户，点击您的订阅进入订阅详情页面
 
-**2. 导入 Boom Cloud 接入点信息**
+**2. 导入 BoomCloud 接入点信息**
 
 点击订阅打开订阅详情页面，找到「产品操作」功能区，然后点击「Clash」按钮，点击之后会自动复制托管链接至剪贴板，部分浏览器会弹出复制成功提示
 

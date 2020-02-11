@@ -6,15 +6,15 @@
 
 **下载和安装 Clash for Android**
 
-点击[这里](https://play.google.com/store/apps/details?id=com.github.kr328.clash)下载 Clash for Android
+点击[这里](https://cdn.t9c.co/download/clash1.0.32-alpha.apk)下载 Clash for Android
 
 ---
 
-**1. 使用浏览器登录到 Boom Cloud 管理门户**
+**1. 使用浏览器登录到 BoomCloud 管理门户**
 
-建议使用 Chrome 浏览器，访问 Boom Cloud 管理门户，点击您的订阅进入订阅详情页面
+建议使用 Chrome 浏览器，访问 BoomCloud 管理门户，点击您的订阅进入订阅详情页面
 
-**2. 导入 Boom Cloud 接入点信息**
+**2. 导入 BoomCloud 接入点信息**
 
 点击订阅打开订阅详情页面，找到「产品操作」功能区，然后点击「Clash」按钮。
 
@@ -26,7 +26,7 @@
 
 ![](../img/Clash-for-Android/02.png)
 
-点击选中添加成功的托管配置。配置名称右侧是订阅更新按钮，Boom Cloud 的服务器信息会不定时更新，如若出现大面积节点超时现象，可尝试手动更新订阅。
+点击选中添加成功的托管配置。配置名称右侧是订阅更新按钮，BoomCloud 的服务器信息会不定时更新，如若出现大面积节点超时现象，可尝试手动更新订阅。
 
 ![](../img/Clash-for-Android/03.png)
 
@@ -40,7 +40,7 @@
 
 ![](../img/Clash-for-Android/05.png)
 
-点击⚡按钮可以进行延迟测试，测试结果将显示在节点名称右侧。注意：延迟和速度并不成正比，Boom Cloud 只致力于提高速度，游戏等对于低延迟有较高需求的请购买专业游戏加速器
+点击⚡按钮可以进行延迟测试，测试结果将显示在节点名称右侧。注意：延迟和速度并不成正比，BoomCloud 只致力于提高速度，游戏等对于低延迟有较高需求的请购买专业游戏加速器
 
 ![](../img/Clash-for-Android/06.png)
 
