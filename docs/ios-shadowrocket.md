@@ -47,6 +47,9 @@ Shadowrocket 会自动返回主界面并显示所有可用的接入点，这里�
 
 最后点击最上方的未连接后面的按钮，成功开启BoomCloud加速服务，下方节点列表中可以自由点击切换线路，寻找最适合您的高速线路
 
+另外阁下可以导入如下规则集配置作国内外分流
+`https://cdn.t9c.co/Profiles/shadowrocket/Basic.conf`
+
 - - -
 
 **注意事项：  **
