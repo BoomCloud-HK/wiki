@@ -53,7 +53,7 @@
   B、更新PAC为绕过大陆IP：所有国外网站使用代理，在路由器上配置SS后NAS的BT下载也会使用代理，谨慎使用；
   D、更新PAC为GFW List：GFW List中列表网站。
 ```
-## Windows平台使用方法二
+## Windows平台使用方法二(已经失效)
 
 **1.下载BoomCloud for Windows客户端**
 

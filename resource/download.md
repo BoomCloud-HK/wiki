@@ -42,8 +42,6 @@
 | 客户端名称 | 下载链接 | 适用平台 |
 | :---: | :---: | :---: |
 | Boomcloud Client for Mac (推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_v3.0.dmg) | macOS | 
-| Boomcloud Client for Game(推荐) | [下载地址](https://cdn.t9c.co/download/Boomcloud加速器2.1.7z) | Windows | 
-| Boomcloud Client for Windows(修复中) | [下载地址](https://cdn.t9c.co/download/BoomCloud.zip) | Windows | 
 
 特性：  
 * 登录 Boomcloud 账户自动获取接入点信息
