@@ -53,15 +53,15 @@
   B、更新PAC为绕过大陆IP：所有国外网站使用代理，在路由器上配置SS后NAS的BT下载也会使用代理，谨慎使用；
   D、更新PAC为GFW List：GFW List中列表网站。
 ```
-## Windows平台使用方法二(已经失效)
+## Windows平台使用方法二
 
 **1.下载BoomCloud for Windows客户端**
 
-下载地址:[BoomCloud Win](https://cdn.t9c.co/download/BoomCloud.zip)  
+下载地址:[BoomCloud Win](https://cdn.t9c.co/download/BoomCloud_1.0.2.zip)  
 Windows环境库:[tools](https://cdn.t9c.co/download/wintools.zip)  
 **2.安装客户端并登陆**
 
-将下载好的客户端压缩包解压，开启 Launcher.exe，点击左上角“账户菜单”→“登录” BoomCloud门户账号，，如可以正常运行则直接跳过以下步骤点击启动开始科学上网。
+将下载好的客户端压缩包解压，开启 Launcher.exe，点击左上角“账户菜单”→“登录” BoomCloud门户账号，如可以正常运行则直接跳过以下步骤点击启动开始科学上网。
 
 ![](../img/win/client-new.png)
 
