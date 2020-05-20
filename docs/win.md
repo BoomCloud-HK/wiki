@@ -2,6 +2,26 @@
 - - -
 ## Windows平台使用方法一(推荐)
 
+**1.下载BoomCloud for Windows客户端**
+
+下载地址:[BoomCloud Win](https://cdn.t9c.co/download/BoomCloud_0.1.0.exe)  
+  
+**2.安装客户端并登陆**
+
+下载后安装，安装之后登录阁下在BoomCloud门户的账户即可开始科学上网。
+
+该客户端会一次性把所有的ss、v2ray节点全部加载。
+
+![](../img/win/client-clash.png)
+
+
+· 登录 Boomcloud 账户自动获取接入点信息  
+· 自动获取套餐到期时间以及流量使用剩余信息  
+· 适应多套餐用户，可自由自主切换套餐无需登录面板   
+· 以 ss、vmess、trojan(即将支持) 方式运行
+
+## Windows平台使用方法二
+
 **下载客户端：[点击下载](https://cdn.t9c.co/download/ShadowsocksR.7z)**
 **1. 使用桌面浏览器登录到 Boom Cloud 管理门户**
 
@@ -53,7 +73,7 @@
   B、更新PAC为绕过大陆IP：所有国外网站使用代理，在路由器上配置SS后NAS的BT下载也会使用代理，谨慎使用；
   D、更新PAC为GFW List：GFW List中列表网站。
 ```
-## Windows平台使用方法二
+## Windows平台使用方法三
 
 **1.下载BoomCloud for Windows客户端**
 
