@@ -27,11 +27,11 @@ Quantumult X 是 Quantumult 作者开发的另一款网络代理调试工具，�
 
 打开 Quantumult X 软件，点击右下角悬浮按钮，然后点击「节点」功能区「引用（订阅）」按钮
 
-![](../img/ios/quanx-00.png)
+![](../img/ios/quanx-00.PNG)
 
 将复制好的订阅链接粘贴进输入框内，点击确定，稍等片刻（视网络情况而定）会弹出更新成功的弹窗提醒，如果弹出其他提示信息，请多尝试几次，或者联系 BoomCloud 技术支持服务部门。
 
-![](../img/ios/quanx-01.png)
+![](../img/ios/quanx-01.PNG)
 
 **3. 添加分流规则**
 
@@ -41,27 +41,27 @@ Quantumult X 是 Quantumult 作者开发的另一款网络代理调试工具，�
 
 点击确定，稍等片刻（视网络情况而定）会弹出更新成功的弹窗提醒
 
-![](../img/ios/quanx-02.png)
+![](../img/ios/quanx-02.PNG)
 
 回到应用主界面，可以看到添加的服务器节点信息默认名称是一串随机字符，如果想重命名，可以长按「节点」按钮
 
-![](../img/ios/quanx-03.png)
+![](../img/ios/quanx-03.PNG)
 
 在弹出的资源列表页面内，将需要重命名的条目向左划
 
-![](../img/ios/quanx-04.png)
+![](../img/ios/quanx-04.PNG)
 
 然后点击「标签」按钮，输入自定义名称即可完成重命名。
 
-![](../img/ios/quanx-05.png)
+![](../img/ios/quanx-05.PNG)
 
 Quantumult X 默认的运行模式是`全部代理`，可以在`设置-其他设置`里修改为`规则分流`模式，或者在主界面长按右下角悬浮按钮，选择第二个图标即可修改为`规则分流`模式
 
-![](../img/ios/quanx-06.png)
+![](../img/ios/quanx-06.PNG)
 
 在节点界面，点击展开节点列表，即可自由切换您所购套餐内的线路，下拉此页面可以对所有节点进行延迟测试，寻找最适合您的高速线路（注：延迟高低和线路带宽并无直接关系）
 
-![](../img/ios/quanx-07.png)
+![](../img/ios/quanx-07.PNG)
 
 最后点击右上角开关按钮，连接所选服务器。首次使用 Quantumult 系统会弹出 VPN 授权弹窗，请点击允许，跳转到系统设置完成授权，成功开启 BoomCloud 加速服务。
 
@@ -75,15 +75,15 @@ Quantumult X 拥有丰富而灵活的策略组功能，简单来说可以实现�
 
 BoomCloud 提供的分流规则内置了许多策略组，这里以 Netflix 举例，在策略列表里找到 Netflix 策略，长按策略组图标可对其进行自定义配置
 
-![](../img/ios/quanx-08.png)
+![](../img/ios/quanx-08.PNG)
 
 可以自行配置节点线路/子策略，比如把支持 Netflix 的线路添加进策略里，并且可以自行排序。
 
-![](../img/ios/quanx-09.png)
+![](../img/ios/quanx-09.PNG)
 
 回到主界面，可以手动选择使用的节点。
 
-![](../img/ios/quanx-10.png)
+![](../img/ios/quanx-10.PNG)
 
 此为 Quantumult X 的简明教程，更多功能请自行摸索，或求助于搜索引擎。
 - - -
