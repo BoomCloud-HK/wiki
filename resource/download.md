@@ -41,8 +41,8 @@
 | :---: | :---: | :---: |
 | Boomcloud Client for Mac (推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_v3.0.dmg) | macOS | 
 | Boomcloud Client for Win(推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_0.1.0.exe) | Windows | 
-| Boomcloud Client for Win| [下载地址](https://cdn.t9c.co/download/BoomCloud_1.0.2.zip) | Windows | 
-| Boomcloud  for Android| [下载地址](https://cdn.t9c.co/download/BoomCloud_2.2.1.apk) | Android | 
+| Boomcloud  for Android(推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_1.2.15.apk) | Android | 
+| Boomcloud Client for Win(停用)| [下载地址](https://cdn.t9c.co/download/BoomCloud_1.0.2.zip) | Windows | 
 
 特性：  
 * 登录 Boomcloud 账户自动获取接入点信息
