@@ -12,6 +12,7 @@
   - [Android-Clash](/docs/Clash-for-Android)
   - [Android-SSR/SS](/docs/android)
   - [iOS-Quantumult](/docs/ios-quan)
+  - [iOS-Quantumult X](/docs/ios-quanx)
   - [iOS-Surge3](/docs/ios-surge3)
   - [iOS-Surge4](/docs/surge4)
   - [iOS-Shadowrocket](/docs/ios-shadowrocket)
