@@ -6,7 +6,7 @@
 
 **下载和安装 Clash for Android**
 
-点击[这里](https://cdn.t9c.co/download/clash_1.2.6.apk)下载 Clash for Android
+点击[这里](https://cdn.t9c.co/download/clash2.0.18.apk)下载 Clash for Android
 
 ---
 

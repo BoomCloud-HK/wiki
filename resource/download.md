@@ -8,9 +8,9 @@
 
 | 客户端名称 | 下载地址 | 是否支持一键配置 | 价格 |
 | :---: | :---: | :---: | :---: |
-| Clash for Windows | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows-0.8.11-win.7z) | 是 | 免费 |
+| Clash for Windows | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.11.1.exe) | 是 | 免费 |
 | ClashX | [下载地址](https://cdn.t9c.co/download/ClashX.dmg) | 是 | 免费 |
-| Clash for Android | [下载地址](https://cdn.t9c.co/download/clash_1.2.6.apk) | 是 | 免费 |
+| Clash for Android | [下载地址](https://cdn.t9c.co/download/clash2.0.18.apk) | 是 | 免费 |
 | Quantumult | [下载地址](https://apps.apple.com/us/app/quantumult/id1252015438) | 是 | $4.99 |
 | QuantumultX | [下载地址](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 是 | $7.99 |
 | Shadowrocket | [下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118) | 是 | $2.99 |
