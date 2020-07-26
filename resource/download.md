@@ -39,9 +39,10 @@
 
 | 客户端名称 | 下载链接 | 适用平台 |
 | :---: | :---: | :---: |
-| Boomcloud Client for Mac (推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_v3.0.dmg) | macOS | 
-| Boomcloud Client for Win(推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_0.1.0.exe) | Windows | 
+| Boomcloud Client for Mac (推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_0.2.0.dmg) | macOS | 
+| Boomcloud Client for Win(推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_0.2.0.exe) | Windows | 
 | Boomcloud  for Android(推荐)| [下载地址](https://cdn.t9c.co/download/BoomCloud_1.2.15.apk) | Android | 
+| Boomcloud Client for Mac (旧版)| [下载地址](https://cdn.t9c.co/download/BoomCloud_v3.0.dmg) | macOS | 
 | Boomcloud Client for Win(停用)| [下载地址](https://cdn.t9c.co/download/BoomCloud_1.0.2.zip) | Windows | 
 
 特性：  

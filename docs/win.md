@@ -4,7 +4,7 @@
 
 **1.下载BoomCloud for Windows客户端**
 
-下载地址:[BoomCloud Win](https://cdn.t9c.co/download/BoomCloud_0.1.0.exe)  
+下载地址:[BoomCloud Win](https://cdn.t9c.co/download/BoomCloud_0.2.0.exe)  
   
 **2.安装客户端并登陆**
 
