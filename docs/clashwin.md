@@ -5,7 +5,7 @@
 
 **下载和安装 Clash for Windows**
 
-- 下载地址：[下载](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.11.1.exe)
+- 下载地址：[下载](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe)
 
 运行 Clash for Windows 需要管理员权限，请确保在 UAC 授权中允许这么做
 

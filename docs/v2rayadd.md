@@ -7,7 +7,7 @@
 
 **1.Windows平台客户端推荐使用Clash for Windows**
 
-- 下载地址：[下载1](https://cdn.t9c.co/download/Clash.for.Windows-0.8.8-win.7z)，[下载2](https://github.com/clash-windows/clash_for_windows_pkg/releases/download/0.8.8/Clash.for.Windows-0.8.8-win.7z)
+- 下载地址：[下载]1(https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) [下载2](https://github.com/Fndroid/clash_for_windows_pkg/releases
 
 复制订阅连接见图
 ![](../img/v2add/clash.png)
