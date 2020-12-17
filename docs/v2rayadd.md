@@ -33,7 +33,7 @@
 
 **4.Android平台客户端推荐使用Clash for Android**
 
-- 下载地址：[下载](https://cdn.t9c.co/download/clash1.0.32-alpha.apk)
+- 下载地址：[下载](https://cdn.t9c.co/download/Clash2.1.6.apk)
 
 复制订阅连接见图
 ![](../img/v2add/clash.png)
