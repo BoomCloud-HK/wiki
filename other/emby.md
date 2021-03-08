@@ -46,19 +46,23 @@ AndroidTV盒子客户端下载
 
 **下载**
 * Emby Theater 官方源 ：
+
 – Windows：[GitHub](https://github.com/MediaBrowser/emby-theater-windows/releases/download/3.0.13/emby-theater-x64.zip)
 
 PS: 顺带加快了初次打开 Emby Theater 的速度
 
 **安装方法**
+
 1. 删除 Emby Theater 安装目录下的`Emby-Theater\data` 目录
 2. 找到 `main.js`
 3. Windows:
 `Emby-Theater\system\electronapp\main.js`
 `emby-theater-x64\electronapp\main.js`
+
 Linux:`/usr/lib/emby-theater/resources/app/main.js`
 
 **修改文件**
+
 使用编辑器（如 visual studio code）打开 `main.js`
 
 搜索找到
@@ -85,6 +89,7 @@ function getAppBaseUrl() {
 
 ### Linux
 * Emby Theater 官方源 ：
+
 – Linux-X64：[GitHub](https://github.com/MediaBrowser/emby-theater-electron/releases/download/3.0.12/emby-theater_3.0.12_amd64.deb)
 – Linux-rpi：[GitHub](https://github.com/MediaBrowser/emby-theater-electron/releases/download/3.0.12/emby-theater-rpi_3.0.12.zip)
 
