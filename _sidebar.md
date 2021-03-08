@@ -19,7 +19,7 @@
   - [Router](/docs/router)
 
 
-- 进阶教程
+- 进阶使用
 
   - [分应用代理](/advanced/proxifier-ssr)
   - [SocksCap64 游戏](/advanced/sockscap64-ssr)
@@ -33,6 +33,7 @@
 
 - 其他说明
 
+  - [Emby服务](/other/emby)
   - [使用服务](/other/use-service)
   - [网络问题](/other/net)
   - [隐私问题](/other/privacy)

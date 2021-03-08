@@ -33,6 +33,7 @@
 
 - 其他说明
 
+  - [Emby服务](/other/emby)
   - [使用服务](/other/use-service)
   - [网络问题](/other/net)
   - [隐私问题](/other/privacy)
