@@ -73,7 +73,7 @@ function getAppBaseUrl() {
 修改为
 ```
 function getAppBaseUrl() {
-        var url = 'https://tv.emby.neko.re';
+        var url = 'https://emby.mui.host:443';
         //url = 'http://localhost:8088';
         return url;
     }
