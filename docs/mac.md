@@ -4,8 +4,8 @@
 ### macOS平台使用方法一(推荐)
 **1.下载BoomCloud for Mac客户端**
 
-下载地址:[BoomCloud 客户端下载地址](https://cdn.t9c.co/download/BoomCloud_0.3.0.dmg)  
-下载地址:[BoomCloud M1芯片机器下载这个](https://cdn.t9c.co/download/BoomCloud_0.3.0-arm64.dmg)
+下载地址:[BoomCloud 客户端下载地址](https://cdn.t9c.co/download/BoomCloud_0.3.1.dmg)  
+下载地址:[BoomCloud M1芯片机器下载这个](https://cdn.t9c.co/download/BoomCloud_0.3.1-arm64.dmg)
 
 **2.安装客户端并登陆**
 
