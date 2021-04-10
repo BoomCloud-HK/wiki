@@ -6,9 +6,9 @@
 
   - [全平台V2订阅](/docs/v2rayadd)
   - [Windows-Clash](/docs/clashwin)
-  - [Windows-SSR/SS](/docs/win)
+  - [Windows-客户端/SSR](/docs/win)
   - [macOS-Clash](/docs/clashx)
-  - [macOS-SSR/SS](/docs/mac)
+  - [macOS-客户端/SSR](/docs/mac)
   - [Android-Clash](/docs/Clash-for-Android)
   - [Android-SSR/SS](/docs/android)
   - [iOS-Quantumult](/docs/ios-quan)

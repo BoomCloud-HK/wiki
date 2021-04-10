@@ -6,15 +6,15 @@
 
   - [全平台V2订阅](/docs/v2rayadd)
   - [Windows-Clash](/docs/clashwin)
-  - [Windows-SSR/SS](/docs/win)
+  - [Windows-客户端/SSR](/docs/win)
   - [macOS-Clash](/docs/clashx)
-  - [macOS-SSR/SS](/docs/mac)
+  - [macOS-客户端/SSR](/docs/mac)
   - [Android-Clash](/docs/Clash-for-Android)
   - [Android-SSR/SS](/docs/android)
   - [iOS-Quantumult](/docs/ios-quan)
   - [iOS-Quantumult X](/docs/ios-quanx)
   - [iOS-Surge3](/docs/ios-surge3)
-  - [iOS-Surge4](/docs/ios-surge4)
+  - [iOS-Surge4](/docs/surge4)
   - [iOS-Shadowrocket](/docs/ios-shadowrocket)
   - [Router](/docs/router)
 
