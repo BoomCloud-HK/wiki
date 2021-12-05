@@ -1,4 +1,4 @@
 - BoomCloud
-  - [首页](https://www.boomsse.com/)
-  - [用户中心](https://www.boomsse.com/clientarea.php)
+  - [首页](https://www.boomssv.com/)
+  - [用户中心](https://www.boomssv.com/clientarea.php)
   - [文档中心](https://boomcloud-hk.github.io/wiki/)
