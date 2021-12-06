@@ -7,7 +7,7 @@
 **下载和安装 Clash for Android**
 
 下载地址：
-- [国内 CDN 托管](https://cdn.t9c.co/download/Clash2.1.6.apk)
+- [国内 CDN 托管](https://cdn.t9c.co/download/cfa-2.5.3.apk)
 - [官方 Github](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.3/cfa-2.5.3-premium-arm64-v8a-release.apk)
 ---
 
