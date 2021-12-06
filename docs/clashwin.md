@@ -5,11 +5,13 @@
 
 **下载和安装 Clash for Windows**
 
+下载地址：
 - [国内 CDN 托管](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe)
 - [官方 Github](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.0/Clash.for.Windows.Setup.0.19.0.exe)
 
 运行 Clash for Windows 需要管理员权限，请确保在 UAC 授权中允许
 
+---
 **1. 登录 BoomCloud 用户中心**
 
 建议使用 Chrome 浏览器，访问 BoomCloud 用户中心，在「您已激活的产品」区域，找到生效中的套餐，点击进入套餐管理页面。在节点订阅模块可以分别订阅 SSR/V2Ray 不同协议的节点，点击复制 Clash 的订阅链接
@@ -18,7 +20,7 @@
 
 **2. 导入 BoomCloud 接入点信息**
 
-安装并运行 Clash 客户端，点击「Profiles」按钮，在空白处填入复制的订阅链接 ，注意检查地址以`https://subscribe.boomss.host/XXXXX`开头，点击「Download」按钮下载配置文件
+安装并运行 Clash 客户端，点击「Profiles」按钮¹，在输入框内填入复制的订阅链接² ，注意检查地址以`https://subscribe.boomss.host/XXXXX`开头，点击「Download」按钮下载配置文件³
 
 ![](../img/clashwin/1.png)  
 
@@ -26,13 +28,13 @@
 
 ![](../img/clashwin/2.png)
 
-点击「Proxies」按钮，在 select 策略组「BoomCloud」中选择要使用的节点或策略，「自动选择」策略组可以自动选择延迟最低的节点。另外此处「Global」即全局模式，「Rule」即规则模式，「Direct」即不走代理直连模式。
+点击「Proxies」按钮¹，在 select 策略组「BoomCloud」中选择要使用的节点或策略²，「自动选择」策略组可以自动选择延迟最低的节点。另外此处「Global」即全局模式，「Rule」即规则模式，「Direct」即不走代理直连模式。
 
 !>建议阁下默认使用「Rule」模式
 
 ![](../img/clashwin/3.png)
 
-点击「General」选项，打开「System Proxy」开关启用系统代理，建议同时打开「Start with Windows」开关实现开机自启动
+点击「General」按钮¹，打开「System Proxy」开关启用系统代理²，建议同时打开「Start with Windows」开关实现开机自启动³
 
 ![](../img/clashwin/4.png)
 
@@ -48,7 +50,7 @@
 
 ![](../img/clashwin/6.png)
 
-点击「Exempt All」勾选所有 UWP 应用，然后点击 Save Changes 即可。请注意安装新的 UWP 应用后需要再次手动勾选新添加的应用
+点击 `Exempt All` 勾选所有 UWP 应用¹，然后点击 `Save Changes` 即可²，请注意安装新的 UWP 应用后需要再次手动勾选新添加的应用
 
 ![](../img/clashwin/7.png)
 
