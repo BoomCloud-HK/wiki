@@ -9,7 +9,13 @@
 下载地址：
 - [国内 CDN 托管](https://cdn.t9c.co/download/Clash2.1.6.apk)
 - [官方 Github](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.3/cfa-2.5.3-premium-arm64-v8a-release.apk)
+
+**注意事项：**  
+
+!> BoomCloud 将提供关于此应用程序的配置和使用支持服务，然而，由于此应用程序并非 BoomCloud 开发，我们的支持人员培训程度也并不相同，我们建议如果用户使用过程中出现应用程序方面的问题，优先考虑询问开发者，或自行使用搜索引擎寻求解决方案。
+
 ---
+
 
 **1. 登录 BoomCloud 用户中心**
 
