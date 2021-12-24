@@ -46,4 +46,15 @@ Surfboard 支持 SS/SS-OBFS/Trojan/VMess/HTTP/SOCK5 等代理协议，**不支�
 
 ![](../img/Surfboard/05.png)
 
-BoomCloud 提供的配置文件仅包含一个 `select` 策略组，如有其他需求可参照[官方配置模板](https://manual.getsurfboard.com/config-template)自行编写配置文件，或者使用 Subconverter/Surgio 自定义。
+**4. 订阅转换**
+BoomCloud 提供的配置文件仅包含一个 `select` 策略组，如有其他需求可参照[官方配置模板](https://manual.getsurfboard.com/config-template)自行编写配置文件，或者使用 BoomCloud 官方提供的[订阅转换 API](https://sub.muj.host/) 进行自定义
+
+在`订阅链接`文本框输入订阅链接¹，`客户端`选择 Surge4²，选择 BoomCloud 提供的后端地址³，`远程配置`按需选择⁴，`Include` `Exclude`两项可对节点进行筛选，`更多选项`可进一步自定义⁵，一切就绪之后即可点击生成订阅链接按钮⁶，将生成的订阅链接粘贴至 Surfboard 导入
+
+![](../img/Surfboard/06.png)
+
+此为 Surfboard 简明教程，更多功能请参阅[官方文档](https://manual.getsurfboard.com/)，或求助于搜索引擎
+- - -
+注意事项：  
+1. 个人专属配置文件是你个人账号密码及节点的总集成，不能泄露给任何人及网络，以防止他人使用及知晓你的密码。  
+2. 如果节点有更新，则需要在订阅管理页面更新订阅。  
