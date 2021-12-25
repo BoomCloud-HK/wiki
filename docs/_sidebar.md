@@ -10,7 +10,7 @@
   - [macOS-Clash](/docs/clashx)
   - [macOS-客户端/SSR](/docs/mac)
   - [Android-Clash](/docs/Clash-for-Android)
-  - [Android-Surfboard](/docs/Surfboard)
+  - [Android-Surfboard](/docs/surfboard)
   - [Android-SSR/SS](/docs/android)
   - [iOS-Quantumult](/docs/ios-quan)
   - [iOS-Quantumult X](/docs/ios-quanx)
