@@ -4,7 +4,6 @@
 
 - 开始使用
 
-  - [全平台V2订阅](/docs/v2rayadd)
   - [Windows-Clash](/docs/clashwin)
   - [Windows-客户端/SSR](/docs/win)
   - [macOS-Clash](/docs/clashx)
@@ -17,7 +16,7 @@
   - [iOS-Surge3](/docs/ios-surge3)
   - [iOS-Surge4](/docs/ios-surge4)
   - [iOS-Shadowrocket](/docs/ios-shadowrocket)
-  - [Router](/docs/router)
+  - [路由器](/docs/router)
 
 
 - 进阶使用

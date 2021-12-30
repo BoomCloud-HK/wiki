@@ -22,7 +22,7 @@
 · 适应多套餐用户，可自由自主切换套餐无需登录面板   
 · 以 ss、vmess、trojan(即将支持) 方式运行
 
-## Windows平台使用方法二
+## Windows平台使用方法二 (不再提供技术支持及更新)
 
 **下载客户端：[点击下载](https://cdn.t9c.co/download/ShadowsocksR.7z)**
 **1. 使用桌面浏览器登录到 Boom Cloud 管理门户**

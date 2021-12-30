@@ -21,34 +21,20 @@
 
 **支持SS/R及V2ray的公共客户端**
 
-| 客户端名称 | 下载地址 | 是否支持一键配置 | 价格 |
-| :---: | :---: | :---: | :---: |
-| Clash for Windows | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | 免费 |
-| ClashX | [下载地址](https://cdn.t9c.co/download/ClashX.dmg) | 是 | 免费 |
-| Clash for Android | [下载地址](https://cdn.t9c.co/download/Clash2.1.6.apk) | 是 | 免费 |
-| Quantumult | [下载地址](https://apps.apple.com/us/app/quantumult/id1252015438) | 是 | $4.99 |
-| QuantumultX | [下载地址](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 是 | $7.99 |
-| Shadowrocket | [下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118) | 是 | $2.99 |
-| Surge4 | [下载地址](https://apps.apple.com/us/app/surge-4/id1442620678) | 是 | $49.99 |
+| 客户端名称 | 下载地址1 | 下载地址2 | 是否支持一键配置 | 价格/平台 |
+| :---: | :---: | :---: | :---: | :---: |
+| Clash for Windows | [下载地址](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.3/Clash.for.Windows.Setup.0.19.3.exe) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | Windows |
+| ClashX | [下载地址](https://github.com/yichengchen/clashX/releases/download/1.72.0/ClashX.dmg) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | macOS |
+| Clash for Android | [下载地址](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.3/cfa-2.5.3-premium-universal-release.apk) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | Android |
+| Quantumult | [下载地址](https://apps.apple.com/us/app/quantumult/id1252015438) |  无 |是 | $4.99/iOS |
+| QuantumultX | [下载地址](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 无 | 是 | $7.99/iOS |
+| Shadowrocket | [下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118) | 无 | 是 | $2.99/iOS |
+| Surge4 | [下载地址](https://apps.apple.com/us/app/surge-4/id1442620678) |无 | 是 | $49.99/iOS |
 
+* 通常 `下载地址1` 中的版本比较新，`下载地址2`的资源比较老旧
 * iOS下的客户端种类繁多，其实使用者的功能性需求很明确，这个时候就需要考虑性价比及使用便利性
 * 从经济以及易用性稳定性角度考虑推荐Quantumult，土豪且追求性能的话推荐Surge4
 
-
-**SSR公共客户端**
-
-| 客户端名称 | 下载地址 | 是否支持一键配置 | 价格 |
-| :---: | :---: | :---: | :---: |
-| SSR for Windows | [下载地址](https://cdn.t9c.co/download/ShadowsocksR.7z) | 是 | 免费 |
-| SSR for macOS | [下载地址](https://cdn.t9c.co/download/ssr-mac.dmg) | 是 | 免费 |
-| SSR for Android | [下载地址](https://cdn.t9c.co/download/ssr-android.apk) | 是 | 免费 |
-| Quantumult | [下载地址](https://apps.apple.com/us/app/quantumult/id1252015438) | 是 | $4.99 |
-| QuantumultX | [下载地址](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 是 | $7.99 |
-| Shadowrocket | [下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118) | 是 | $2.99 |
-| Surge4 | [下载地址](https://apps.apple.com/us/app/surge-4/id1442620678) | 是 | $49.99 |
-
-* iOS下的客户端种类繁多，其实使用者的功能性需求很明确，这个时候就需要考虑性价比及使用便利性 
-* 从经济以及易用性稳定性角度考虑推荐Quantumult，土豪且追求性能的话推荐Surge4
  
 ---
 注意事项：  
