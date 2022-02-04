@@ -30,6 +30,8 @@
 - 常见问题
 
   - [问题集锦](/other/q-a)
+  - [更新订阅失败自检方法](/other/sub-error)
+  - [为 Windows 10 开启 DoH 功能](/other/win10-doh)
 
 - 其他说明
 
