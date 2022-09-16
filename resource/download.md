@@ -30,6 +30,7 @@
 | Clash Meta For Android | [下载地址](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.5.11-pre03-meta-alpha-universal-release.apk) | 无 | 是 | Android |
 | Surfboard | [下载地址](https://github.com/getsurfboard/surfboard/releases/latest/download/mobile-universal-release.apk) | 无 | 是 | Android |
 | SagerNet | [下载地址](https://github.com/SagerNet/SagerNet/releases/download/0.8.1-beta02/SN-0.8.1-beta02-arm64-v8a.apk) | 无 | 是 | Android |
+| Matsuri | [下载地址](https://github.com/MatsuriDayo/Matsuri/releases/download/0.4.2/Matsuri-0.4.2-arm64-v8a.apk) | 无 | 是 | Android |
 | Quantumult | [下载地址](https://apps.apple.com/us/app/quantumult/id1252015438) |  无 |是 | $4.99/iOS |
 | QuantumultX | [下载地址](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 无 | 是 | $7.99/iOS |
 | Shadowrocket | [下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118) | 无 | 是 | $2.99/iOS |
