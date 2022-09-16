@@ -23,9 +23,13 @@
 
 | 客户端名称 | 下载地址1 | 下载地址2 | 是否支持一键配置 | 价格/平台 |
 | :---: | :---: | :---: | :---: | :---: |
-| Clash for Windows | [下载地址](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.3/Clash.for.Windows.Setup.0.19.3.exe) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | Windows |
-| ClashX | [下载地址](https://github.com/yichengchen/clashX/releases/download/1.72.0/ClashX.dmg) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | macOS |
-| Clash for Android | [下载地址](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.3/cfa-2.5.3-premium-universal-release.apk) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | Android |
+| Clash for Windows | [下载地址](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.3/Clash.for.Windows.Setup.0.20.3.exe) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | Windows |
+| ClashX | [下载地址](https://github.com/yichengchen/clashX/releases/download/1.95.1/ClashX.dmg) | [下载地址](https://cdn.t9c.co/download/Clash.for.Windows.Setup.0.13.6.exe) | 是 | macOS |
+| Clashx Pro | [下载地址](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) | 无 | 是 | macOS |
+| Clash for Android | [下载地址](https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.11/cfa-2.5.11-premium-universal-release.apk) | 无 | 是 | Android |
+| Clash Meta For Android | [下载地址](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.5.11-pre03-meta-alpha-universal-release.apk) | 无 | 是 | Android |
+| Surfboard | [下载地址](https://github.com/getsurfboard/surfboard/releases/latest/download/mobile-universal-release.apk) | 无 | 是 | Android |
+| SagerNet | [下载地址](https://github.com/SagerNet/SagerNet/releases/download/0.8.1-beta02/SN-0.8.1-beta02-arm64-v8a.apk) | 无 | 是 | Android |
 | Quantumult | [下载地址](https://apps.apple.com/us/app/quantumult/id1252015438) |  无 |是 | $4.99/iOS |
 | QuantumultX | [下载地址](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 无 | 是 | $7.99/iOS |
 | Shadowrocket | [下载地址](https://apps.apple.com/us/app/shadowrocket/id932747118) | 无 | 是 | $2.99/iOS |
