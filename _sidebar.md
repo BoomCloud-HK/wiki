@@ -11,6 +11,7 @@
   - [Android-Clash](/docs/Clash-for-Android)
   - [Android-Surfboard](/docs/surfboard)
   - [Android-SSR/SS](/docs/android)
+  - [Android-SagerNet/Matsuri](/docs/SagerNet&Matsuri.md)
   - [iOS-Quantumult](/docs/ios-quan)
   - [iOS-Quantumult X](/docs/ios-quanx)
   - [iOS-Surge3](/docs/ios-surge3)
